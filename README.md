@@ -1,9 +1,9 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 <div align="center">
-  <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…9E19iXNx98xTbbev86UnWZmm3eTHL+dSjViZqWkgV1KFn/9k=" alt="header"/>
+![Me](https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Github_Readme.png)
 </div>
-<p align="center"> (Open for Hiring)</p>
+<p align="center"> Devlopper Mern Stack</p>
 
 <h2 align="center"> 👨‍💻 EL Mehdi Nainiaa</h2>
 
