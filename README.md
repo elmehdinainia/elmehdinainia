@@ -5,7 +5,7 @@ I am a student in web development
 #🏫 I am a Junior Web Developer at YouCode
 As a developer with experience in web and mobile development, I am excited to leverage open source technologies to build impactful solutions. With a strong foundation in JavaScript and an ever-growing skill set, I always seek to improve my problem-solving abilities. Let's reach out and cooperate in building something great together!
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm ELMehdi nainiaa/h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm ELMehdi nainiaa</h2>
 
 
 
@@ -28,6 +28,7 @@ As a developer with experience in web and mobile development, I am excited to le
 
 ⚡️ Fun fact...
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
