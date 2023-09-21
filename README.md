@@ -34,8 +34,8 @@ As a developer with experience in web and mobile development, I am excited to le
 <p align="center">
   <a href="https://linkedin.com/in/abdessamadbettal"><img src="https://img.shields.io/badge/ELMehdiNainia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
-<a href="mailto:nainiaamehdi25@gmail.com"><img src="https://img.shields.io/badge/-abdessamadbattal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/abdessamadbettal"><img src="https://img.shields.io/badge/-@abdessamadbettal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:nainiaamehdi25@gmail.com"><img src="https://img.shields.io/badge/-ELMehdiNainia@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/abdessamadbettal"><img src="https://img.shields.io/badge/-@ELMehdiNainia-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
 
