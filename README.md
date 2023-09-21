@@ -32,7 +32,7 @@ As a developer with experience in web and mobile development, I am excited to le
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)]
 <a href="mailto:nainiaamehdi25@gmail.com"><img src="https://img.shields.io/badge/-abdessamadbattal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/abdessamadbettal"><img src="https://img.shields.io/badge/-@abdessamadbettal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
