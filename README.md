@@ -1,7 +1,7 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 <div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+  <img src="https://media.licdn.com/dms/image/C4E16AQF_qWFYSYz…eta&t=9habuHzmmY5VCn_TAsXBf3WhNufMiFevSeAO-mBLBz0" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
