@@ -5,6 +5,7 @@ I am a student in web development
 #🏫 I am a Junior Web Developer at YouCode
 
 
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Abdessamad</h2>
 
 # Hi, I'm ElMehdi Nainia! 👋
 
