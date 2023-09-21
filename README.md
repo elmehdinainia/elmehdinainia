@@ -1,11 +1,10 @@
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm ELMehdi nainiaa</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
-
 I am a student in web development
 #🏫 I am a Junior Web Developer at YouCode
 As a developer with experience in web and mobile development, I am excited to leverage open source technologies to build impactful solutions. With a strong foundation in JavaScript and an ever-growing skill set, I always seek to improve my problem-solving abilities. Let's reach out and cooperate in building something great together!
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm ELMehdi nainiaa</h2>
 
 
 
